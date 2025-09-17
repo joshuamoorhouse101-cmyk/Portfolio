@@ -10,8 +10,8 @@
 ---
 
 ## TryHackMe Write-ups
-- [Room 1 Summary](tryhackme-room1.pdf)
-- [Room 2 Summary](tryhackme-room2.pdf)
+- [Registry Forensics Lab](Registry_Forensics_Lab)
+- [Linux Forensics Lab](Registry_Forensics_Lab)
 
 ---
 
