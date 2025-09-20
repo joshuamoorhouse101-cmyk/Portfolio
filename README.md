@@ -1,6 +1,6 @@
-# Josh Moorhouse
+# Josh Moorhouse - Cybersecurity Portfolio
 
-**Cybersecurity Enthusiast | Security+ | TryHackMe Labs**
+**I am a cybersecurity professional with hands-on experience in Windows and Linux forensics, phishing analysis, and the cyber kill chain. I have completed Security+, IBM Cybersecurity Analyst, and AWS Cloud Foundations certifications, and am skilled in incident response, threat hunting, and digital forensics using tools like Sysmon, Wireshark, and Volatility. My work demonstrates practical expertise in analyzing attacks, investigating compromised systems, and recommending security improvements.**
 
 ---
 
