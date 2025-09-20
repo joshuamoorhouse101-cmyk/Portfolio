@@ -1,6 +1,6 @@
 # Josh Moorhouse - Cybersecurity Portfolio
 
-**Security+ certified cybersecurity professional with hands-on SOC, EDR, and incident investigation experience. Skilled in log analysis, threat detection, endpoint/network monitoring, and digital forensics. Background in IT risk consulting and IAM enables effective assessment of vulnerabilities and improvement of security posture.**
+**Security+ certified cybersecurity professional with hands-on lab experience in SOC, EDR, and incident investigation. Skilled in log analysis, threat detection, and digital forensics, with a strong foundation in IT risk consulting and IAM to assess vulnerabilities and improve security posture.**
 
 ---
 
