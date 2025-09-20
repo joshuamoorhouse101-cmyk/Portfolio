@@ -1,11 +1,11 @@
 # Josh Moorhouse - Cybersecurity Portfolio
 
-**I am a cybersecurity professional with hands-on experience in Windows and Linux forensics, phishing analysis, and the cyber kill chain. I have completed Security+, IBM Cybersecurity Analyst, and AWS Cloud Foundations certifications, and am skilled in incident response, threat hunting, and digital forensics using tools like Sysmon, Wireshark, and Volatility. My work demonstrates practical expertise in analyzing attacks, investigating compromised systems, and recommending security improvements.**
+**I am a cybersecurity professional with hands-on experience in Windows and Linux forensics, phishing analysis, and the cyber kill chain. I have completed Security+, IBM Cybersecurity Analyst, and AWS Cloud Foundations certifications, and am skilled in incident response, threat hunting, and digital forensics using tools like Sysmon, Wireshark, and Volatility.**
 
 ---
 
 ## Resume
-[Download Resume](Resume/Joshua_Moorhouse_Resume.pdf)
+[Joshua Moorhouse Resume](Resume/Joshua_Moorhouse_Resume.pdf)
 
 ---
 
