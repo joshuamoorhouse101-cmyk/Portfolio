@@ -10,8 +10,9 @@
 ---
 
 ## TryHackMe Write-ups
-- [Registry Forensics Lab](Registry_Forensics_Lab.pdf)
-- [Linux Forensics Lab](Registry_Forensics_Lab.pdf)
+- [Registry Forensics Lab](Labs/Registry_Forensics_Lab.pdf)
+- [Linux Forensics Lab](Labs/Registry_Forensics_Lab.pdf)
+- [Tempest Lab](Labs/Tempest_Lab.pdf)
 
 ---
 
