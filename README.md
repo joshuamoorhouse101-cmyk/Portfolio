@@ -5,7 +5,7 @@
 ---
 
 ## Resume
-[Joshua Moorhouse Resume](Resume/Joshua_Moorhouse_Resume.pdf)
+[Joshua Moorhouse Resume](Resume/Josh_Moorhouse_Resume.pdf)
 
 ---
 
