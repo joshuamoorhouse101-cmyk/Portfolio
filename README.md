@@ -13,6 +13,7 @@
 - [Registry Forensics Lab](Labs/Registry_Forensics_Lab.pdf)
 - [Linux Forensics Lab](Labs/Registry_Forensics_Lab.pdf)
 - [Tempest Lab](Labs/Tempest_Lab.pdf)
+- [Phishing Campaign Lab](Labs/Phishing_Campaign_Lab.pdf)
 
 ---
 
