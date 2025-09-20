@@ -5,7 +5,7 @@
 ---
 
 ## Resume
-[Download Resume](Joshua_Moorhouse_Resume.pdf)
+[Download Resume](Resume/Joshua_Moorhouse_Resume.pdf)
 
 ---
 
@@ -18,6 +18,6 @@
 ---
 
 ## Certifications
-![Security+ Badge](CompTIA_Security+.pdf)
-![IBM Cybersecurity Analyst](IBM_Cybersecurity_Analyst_Professional_Certificate.pdf)
-![AWS Cloud Foundations](AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations.pdf)
+![Security+ Badge](Certifications/CompTIA_Security+.pdf)
+![IBM Cybersecurity Analyst](Certifications/IBM_Cybersecurity_Analyst_Professional_Certificate.pdf)
+![AWS Cloud Foundations](Certifications/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations.pdf)
