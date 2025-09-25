@@ -14,8 +14,8 @@
 - [Linux Forensics Lab](Labs/Registry_Forensics_Lab.pdf)
 - [Tempest Lab](Labs/Tempest_Lab.pdf)
 - [Phishing Campaign Lab](Labs/Phishing_Campaign_Lab.pdf)
-- [Boogeyman 1 (Phishing/Endpoint Security/Network Analysis) Lab](Labs/Boogeyman_Lab)
-- [Boogeyman 2 (Phishing/Memory Forensics) Lab](Labs/Boogeyman_Lab2)
+- [Boogeyman 1 (Phishing/Endpoint Security/Network Analysis) Lab](Labs/Boogeyman_Lab.pdf)
+- [Boogeyman 2 (Phishing/Memory Forensics) Lab](Labs/Boogeyman_Lab2.pdf)
 
 ---
 
