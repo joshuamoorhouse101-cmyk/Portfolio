@@ -1,9 +1,5 @@
 # Josh Moorhouse - Cybersecurity Portfolio
 
-**Security+ certified cybersecurity professional with hands-on lab experience in SOC, EDR, and incident investigation. Skilled in log analysis, threat detection, and digital forensics, with a strong foundation in IT risk consulting and IAM to assess vulnerabilities and improve security posture.**
-
----
-
 ## TryHackMe Write-ups
 - [Registry Forensics Lab](Labs/Registry_Forensics_Lab.pdf)
 - [Linux Forensics Lab](Labs/Registry_Forensics_Lab.pdf)
