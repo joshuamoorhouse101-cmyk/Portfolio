@@ -4,11 +4,6 @@
 
 ---
 
-## Resume
-[Joshua Moorhouse Resume](Resume/Josh_Moorhouse_Resume.pdf)
-
----
-
 ## TryHackMe Write-ups
 - [Registry Forensics Lab](Labs/Registry_Forensics_Lab.pdf)
 - [Linux Forensics Lab](Labs/Registry_Forensics_Lab.pdf)
